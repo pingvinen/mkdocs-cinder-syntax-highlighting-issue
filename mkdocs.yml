@@ -1,4 +1,5 @@
 site_name: Syntax highlighting issue
 theme:
     name: cinder
+    highlightjs: true
 docs_dir: src
