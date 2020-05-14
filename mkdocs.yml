@@ -1,0 +1,4 @@
+site_name: Syntax highlighting issue
+theme:
+    name: cinder
+docs_dir: src

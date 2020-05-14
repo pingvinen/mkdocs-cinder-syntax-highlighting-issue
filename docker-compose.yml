@@ -1,0 +1,12 @@
+version: "2"
+
+services:
+  mkdocs:
+    image: mkdocs-cinder-issue:mkdocs
+    build:
+        context: .
+        dockerfile: Dockerfile
+    volumes:
+      - .:/app/repository
+    ports:
+      - 8000:8000
