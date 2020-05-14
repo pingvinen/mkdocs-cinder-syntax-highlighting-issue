@@ -1,5 +1,7 @@
 # Syntax highlighting not working with MkDocs Cinder theme
 
+Related to <https://github.com/chrissimpkins/cinder/issues/90>.
+
 Using `MkDocs 1.1.1` with the `Cinder 1.0.3` theme makes syntax highlighting go away.
 
 This repository is a clean representation of my actual setup.
