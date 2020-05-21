@@ -20,3 +20,8 @@ theme:
     name: cinder
     highlightjs: true
 ```
+
+
+### Update
+
+My expectations were actually correct, but a regression had snuck into the code. The code has been fixed in `Cinder 1.0.4`, so from that version you no longer need to define `highlightjs: true` to get syntax highlighting.
